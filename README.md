@@ -1,3 +1,14 @@
+> **CultureReset fork of [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch).** A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.
+>
+> - **Why it is here:** Saved for reference.
+> - **Does anything run from it:** No.
+> - **Changes:** The default branch has no CultureReset commits; it is upstream as of the last sync.
+> - **License:** see upstream; this fork does not change it. For updates and issues, use [upstream](https://github.com/meilisearch/meilisearch).
+>
+> The upstream README follows unchanged.
+
+---
+
 <p align="center">
   <a href="https://www.meilisearch.com/?utm_campaign=oss&utm_source=github&utm_medium=meilisearch&utm_content=logo#gh-light-mode-only" target="_blank">
     <img src="assets/meilisearch-logo-light.svg?sanitize=true#gh-light-mode-only">
